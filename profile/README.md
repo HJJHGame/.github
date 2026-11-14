@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../hushhunt-logo.png" alt="HushHunt" width="360" />
+  <img src="https://avatars.githubusercontent.com/u/356486182?s=400&amp;u=68bec5d8b36610aa6d013ae753eff31d785c5077&amp;v=4" alt="HushHunt" width="360" />
 </p>
 
 # HushHunt
